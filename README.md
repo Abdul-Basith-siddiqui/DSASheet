@@ -1,2 +1,2 @@
-# Strive DSASheet
+# Strive SDESheet
 DSA Q/A
