@@ -1,0 +1,17 @@
+class Solution {
+    public int removeDuplicates(int[] nums) {
+        
+
+int value=234431;
+int index=-1;
+for(int i=0;i<nums.length;i++){
+    if(value !=nums[i]){
+        value=nums[i];
+        nums[index+1]=value;
+        index+=1;
+    }
+}
+        
+        return index+1;
+    }
+}
