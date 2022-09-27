@@ -26,3 +26,5 @@ Output: The duplicate element is 3
 Time Complexity: O(N), as we are traversing through the array only once.
 
 Space Complexity: O(N), as we are using extra space for frequency array.
+
+
